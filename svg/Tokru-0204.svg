@@ -42,23 +42,10 @@
           margin-left: 70px;
           white-space: nowrap;
         }
-				.skills {
-          display: inline-flex;
-          margin: 30px 0 0 100px;
-          gap: 7px;
-        }
-        .skills_icon>img {
-          width: 80px;
-          height: 80px;
-        }
-        .skills_icon.nodejs>img {
-          width: 74px;
-        }
 			</style>
-
 			<div class="container">
 				<div class="greeting">
-          Hi Aliens!<br/>I'm Trungquandev from the Earth.
+          "Hello, world!"<br/>I'm Hào Đoàn
         </div>
 			</div>
 		</div>
