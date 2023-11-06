@@ -48,11 +48,11 @@
 				<div class="greeting">
           Hello, world!<br/>I'm Hào Đoàn
         </div>
-        <br>
-        <div class="greeting">
-          GitHub Stats
-        </div>
 			</div>
 		</div>
+    <br>
+    <div class="greeting">
+        GitHub Stats
+    </div>
 	</foreignObject>
 </svg>
