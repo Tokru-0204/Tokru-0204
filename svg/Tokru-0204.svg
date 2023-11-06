@@ -43,16 +43,19 @@
           margin-left: 70px;
           white-space: nowrap;
         }
+        .greeting1 {
+            color: #61DAFB;
+        }
 			</style>
 			<div class="container">
 				<div class="greeting">
           Hello, world!<br/>I'm Hào Đoàn
         </div>
 			</div>
-		</div>
-    <br>
-    <div class="greeting">
+      <br>
+      <div class="greeting1">
         GitHub Stats
-    </div>
+      </div>
+		</div>
 	</foreignObject>
 </svg>
