@@ -4,7 +4,7 @@
 </a>
 
 <br>
-<h2 align="center" style="color: #61DAFB;">GitHub Stats</h2>
+<h2 align="center" style="title_color: #61DAFB">GitHub Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
