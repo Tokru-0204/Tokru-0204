@@ -2,11 +2,6 @@
 <a href="#" target="_blank">
   <img src="svg/Tokru-0204.svg" width="1200" alt="Tokru-0204-official" />
 </a>
-<style>
-.markdown-body .heading-link {
-    color: #61DAFB;
-}
-</style>
 <br>
 <h2 align="center">GitHub Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
