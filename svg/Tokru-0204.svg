@@ -33,6 +33,7 @@
           position: relative;
 				}
         .greeting {
+          color: #61DAFB;
           overflow: hidden;
           font-weight: bold;
 					font-size: 36px;
