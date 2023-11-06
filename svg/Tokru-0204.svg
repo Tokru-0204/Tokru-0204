@@ -49,6 +49,9 @@
           Hello, world!<br/>I'm Hào Đoàn
         </div>
 			</div>
+      	<div class="greeting">
+         GitHub Stats
+        </div>
 		</div>
 	</foreignObject>
 </svg>
