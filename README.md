@@ -1,5 +1,6 @@
 <div align="center">
-  <br/>
+  <img src="assets/hero.png" width="100%" alt="3D Futuristic Workspace" />
+  <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=A9B2C3&center=true&vCenter=true&width=800&lines=Software+Architect;AI+%26+Spatial+Web+Engineer;Full-Stack+Engineer;System+Design+Enthusiast" alt="Typing SVG" />
   <p style="color: #8B949E; font-size: 16px;">
     Building scalable systems, AI-driven architectures, and immersive 3D web experiences.
@@ -10,6 +11,12 @@
 ---
 
 ### ✦ Core Engineering Focus
+
+<div align="center">
+  <img src="assets/ai.png" width="48%" alt="3D AI Core" />
+  <img src="assets/arch.png" width="48%" alt="3D Cloud Architecture" />
+</div>
+<br/>
 
 As a Senior Developer, my expertise lies in designing robust systems that merge complex business logic with cutting-edge artificial intelligence and interactive 3D computing.
 
