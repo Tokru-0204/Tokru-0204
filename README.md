@@ -1,8 +1,8 @@
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=A9B2C3&center=true&vCenter=true&width=800&lines=Software+Architect;Full-Stack+Engineer;System+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=A9B2C3&center=true&vCenter=true&width=800&lines=Software+Architect;AI+%26+Spatial+Web+Engineer;Full-Stack+Engineer;System+Design+Enthusiast" alt="Typing SVG" />
   <p style="color: #8B949E; font-size: 16px;">
-    Building scalable systems and high-performance architectures.
+    Building scalable systems, AI-driven architectures, and immersive 3D web experiences.
   </p>
   <br/>
 </div>
@@ -11,12 +11,13 @@
 
 ### ✦ Core Engineering Focus
 
-As a Senior Developer, my expertise lies in designing and building robust, maintainable systems that solve complex business problems.
+As a Senior Developer, my expertise lies in designing robust systems that merge complex business logic with cutting-edge artificial intelligence and interactive 3D computing.
 
+- **AI & Machine Learning Integration**: Retrieval-Augmented Generation (RAG), Autonomous Agentic Workflows, LLM Orchestration.
+- **3D & Spatial Computing**: Interactive WebGL applications, Three.js, High-performance 3D Data Visualizations.
 - **System Architecture**: Microservices, Event-Driven Architectures, Domain-Driven Design.
 - **Frontend Engineering**: Zoneless Angular 20, Advanced State Management (RxJS/Signals), Web Vitals Optimization.
 - **Backend Systems**: Spring Boot 3.5, Java 17, High-Concurrency RESTful APIs, Secure Authentication (OAuth2/JWT).
-- **Data & Infrastructure**: MySQL Optimization, Redis Caching Strategies, Docker Containerization.
 
 <br/>
 
@@ -24,7 +25,7 @@ As a Senior Developer, my expertise lies in designing and building robust, maint
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,spring,java,ts,tailwind,sass,mysql,redis,docker,git&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=angular,spring,java,ts,tailwind,sass,threejs,blender,tensorflow,python,mysql,redis,docker,git&perline=14" alt="Tech Stack" />
   </a>
 </div>
 
